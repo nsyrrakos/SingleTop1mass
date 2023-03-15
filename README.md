@@ -1,6 +1,6 @@
 *********************************************************************************************************
-* "Two-loop master integrals for a planar and a non-planar topology relevant for single top production" *
-* Nikolaos Syrrakos                                                                                     *
+* "Two-loop master integrals for a planar and a non-planar topology relevant for single top production" 
+* Nikolaos Syrrakos                                                                                     
 *********************************************************************************************************
 
 We provide the following files in Mathematica readable format:
